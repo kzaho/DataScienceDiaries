@@ -9,12 +9,11 @@ What's Inside? 📁
 In this repository, you will find a series of Jupyter notebooks, Python scripts, R scripts, datasets, models, and visualizations that I've created while exploring and learning various data science concepts and tools. Each project has its own dedicated folder, replete with all the necessary materials and a detailed README to guide you through.
 
 ## Projects 📚
-1. [Mind-Map](https://github.com/kzaho/DataScienceDiaries/blob/main/mind_map/README.md#mind-map-%EF%B8%8F)
+### 1. [Mind-Map🧠🗺️](https://github.com/kzaho/DataScienceDiaries/blob/main/mind_map/README.md#mind-map-%EF%B8%8F)
 This is your go-to hub for all resources, links, and tools that I've found incredibly useful throughout my data science journey
-3. Project_Name_1 🚀
+### 2. Project_Name_1 🚀
 Description about the project.
-
-2. Project_Name_2 📈
+#### 3. Project_Name_2 📈
 Description about the project.
 
 ... and more to come!
