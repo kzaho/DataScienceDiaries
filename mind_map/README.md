@@ -8,6 +8,7 @@ This Mind-Map is structured into different categories, each focusing on a key ar
 1. Data Science Theory 📚
 Get to grips with the foundational principles, theories, and concepts of data science that underpin all techniques and methodologies.
    1. [Statistics - parametric and nonparametric](https://www.ibm.com/docs/en/db2woc?topic=procedures-statistics-parametric-nonparametric)
+   2. [Fundamental Algorithms]()
 
 2. Python Programming 🐍
 Dive into Python, a popular language in data science with a plethora of resources on basic and advanced concepts.
