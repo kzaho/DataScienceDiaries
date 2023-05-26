@@ -9,9 +9,9 @@ This Mind-Map is structured into different categories, each focusing on a key ar
 Get to grips with the foundational principles, theories, and concepts of data science that underpin all techniques and methodologies.<br>
 Many thanks for the book [The Hundred-Page Machine Learning Book](http://themlbook.com/) by [Andriy Burkov](https://www.linkedin.com/in/andriyburkov/), so please [check this out](http://themlbook.com/wiki/doku.php?id=start)
 #### 1. Statistics - parametric and nonparametric ([IBM](https://www.ibm.com/docs/en/db2woc?topic=procedures-statistics-parametric-nonparametric), [machinelearningmastery](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/))
-#### 2. [Fundamental Algorithms]()
+#### 2. [Fundamental Algorithms](https://github.com/kzaho/DataScienceDiaries/tree/main/mind_map/algorithms)
 
-### 3. Python Programming 🐍
+### 3. Algorithms 🧮🔍
 Dive into Python, a popular language in data science with a plethora of resources on basic and advanced concepts.
 
 ### 4. Machine Learning 🤖
