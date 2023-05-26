@@ -3,6 +3,8 @@ Welcome to my DataScienceDiaries, an exciting journey through my adventures in t
 
 This repository is a comprehensive collection of my work in Data Science, showcasing my skills in Machine Learning, Data Analysis, Data Visualization, Predictive Modeling, Statistical Analysis and much more.
 
+Thanks to the [guide](https://medium.com/practicum-bootcamp/data-science-portfolio-making-the-most-out-of-github-dac98c536ffc), provided by "Practicum Bootcamp" for an inspiration.
+
 What's Inside? 📁
 In this repository, you will find a series of Jupyter notebooks, Python scripts, R scripts, datasets, models, and visualizations that I've created while exploring and learning various data science concepts and tools. Each project has its own dedicated folder, replete with all the necessary materials and a detailed README to guide you through.
 
