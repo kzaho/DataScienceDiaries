@@ -5,27 +5,28 @@ Welcome to the Mind-Map section of DataScienceDiaries. This is your go-to hub fo
 This Mind-Map is structured into different categories, each focusing on a key area of data science. Under each category, you will find various sub-topics along with corresponding resources. Whether you are just beginning your data science journey or are an experienced professional looking for some specific resources, this mind-map is for you!
 
 ## Categories 📚
-1. Data Science Theory 📚
-Get to grips with the foundational principles, theories, and concepts of data science that underpin all techniques and methodologies.
-   1. [Statistics - parametric and nonparametric](https://www.ibm.com/docs/en/db2woc?topic=procedures-statistics-parametric-nonparametric)
-   2. [Fundamental Algorithms]()
+### 1. Data Science Theory 📚
+Get to grips with the foundational principles, theories, and concepts of data science that underpin all techniques and methodologies.<br>
+Many thanks for the book [The Hundred-Page Machine Learning Book](http://themlbook.com/) by [Andriy Burkov](https://www.linkedin.com/in/andriyburkov/), so please [check this out](http://themlbook.com/wiki/doku.php?id=start)
+#### 1. [Statistics - parametric and nonparametric](https://www.ibm.com/docs/en/db2woc?topic=procedures-statistics-parametric-nonparametric)
+#### 2. [Fundamental Algorithms]()
 
-2. Python Programming 🐍
+### 3. Python Programming 🐍
 Dive into Python, a popular language in data science with a plethora of resources on basic and advanced concepts.
 
-3. Machine Learning 🤖
+### 4. Machine Learning 🤖
 From introductory concepts to advanced techniques, discover machine learning resources that will level up your skills.
 
-4. Deep Learning 🧠
+### 5. Deep Learning 🧠
 Deep dive into Deep Learning with these courses, articles, and tutorials.
 
-5. Statistics and Probability 🎲
+### 6. Statistics and Probability 🎲
 Master the foundation of all data science: statistics and probability.
 
-6. Data Visualization 📊
+### 7. Data Visualization 📊
 Learn to tell compelling stories with data through visualization.
 
-7. Databases and SQL 🗃️
+### 8. Databases and SQL 🗃️
 Get comfortable with SQL and other database technologies.
 
 ... and more!
