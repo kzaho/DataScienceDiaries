@@ -11,22 +11,22 @@ Many thanks for the book [The Hundred-Page Machine Learning Book](http://themlbo
 #### 1. Statistics - parametric and nonparametric ([IBM](https://www.ibm.com/docs/en/db2woc?topic=procedures-statistics-parametric-nonparametric), [machinelearningmastery](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/))
 #### 2. [Fundamental Algorithms](https://github.com/kzaho/DataScienceDiaries/tree/main/mind_map/algorithms)
 
-### 3. Algorithms 🧮🔍
+### 2. Algorithms 🧮🔍
 Dive into Python, a popular language in data science with a plethora of resources on basic and advanced concepts.
 
-### 4. Machine Learning 🤖
+### 3. Machine Learning 🤖
 From introductory concepts to advanced techniques, discover machine learning resources that will level up your skills.
 
-### 5. Deep Learning 🧠
+### 4. Deep Learning 🧠
 Deep dive into Deep Learning with these courses, articles, and tutorials.
 
-### 6. Statistics and Probability 🎲
+### 5. Statistics and Probability 🎲
 Master the foundation of all data science: statistics and probability.
 
-### 7. Data Visualization 📊
+### 6. Data Visualization 📊
 Learn to tell compelling stories with data through visualization.
 
-### 8. Databases and SQL 🗃️
+### 7. Databases and SQL 🗃️
 Get comfortable with SQL and other database technologies.
 
 ... and more!
