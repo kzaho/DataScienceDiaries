@@ -8,8 +8,13 @@ Within each sub-section, you'll find a detailed exploration of various algorithm
 ### 1. Classification Algorithms 🏷️
 Classification is a type of supervised learning where the output is a category. Dive into algorithms like Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, and more.
 
-### 2. [Clustering Algorithms 🌐](https://github.com/kzaho/DataScienceDiaries/tree/main/mind_map/algorithms/clustering)
-Clustering is an unsupervised learning method that separates data points into several specific bunches or clusters, such that the data points in the same cluster are more similar to other data points in the same cluster and dissimilar to the data points in other clusters. Discover algorithms like K-Means, Hierarchical Clustering, DBSCAN, and more.
+### 2. Clustering Algorithms 🌐
+Clustering is an unsupervised learning method that separates data points into several specific bunches or clusters, such that the data points in the same cluster are more similar to other data points in the same cluster and dissimilar to the data points in other clusters.
+Discover algorithms like:
+#### [K-Means](clustering/k-means/k-means_lab.ipynb),
+#### Hierarchical Clustering,
+#### DBSCAN,
+#### and more.
 
 ### 3. Regression Algorithms 📈
 Regression is a type of supervised learning where the output is a real value. Understand key regression techniques like Linear Regression, Ridge Regression, Lasso Regression, Polynomial Regression, and more.

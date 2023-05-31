@@ -3,11 +3,11 @@
 This repository contains all materials from [the Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by Coursera. This specialization consists of 5 comprehensive courses designed to provide foundational knowledge and practical skills in Deep Learning and AI.
 
 ## Table of Contents
-- [Course 1: Neural Networks and Deep Learning](#course-1-neural-networks-and-deep-learning)
+- [Course 1: Neural Networks and Deep Learning](#course-1-neural-networks-and-deep-learning) [labs]()
 - [Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](#course-2-improving-deep-neural-networks)
 - [Course 3: Structuring Machine Learning Projects](#course-3-structuring-machine-learning-projects)
 - [Course 4: Convolutional Neural Networks](#course-4-convolutional-neural-networks)
-- [Course 5: Sequence Models](#course-5-sequence-models)
+- [Course 5: Sequence Models](#course-5-sequence-models) [labs](course_5_sequence_models/README.md)
 
 ## Course 1: Neural Networks and Deep Learning
 
