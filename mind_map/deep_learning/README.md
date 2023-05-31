@@ -7,7 +7,7 @@ This repository contains all materials from [the Deep Learning Specialization](h
 - [Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](#course-2-improving-deep-neural-networks)
 - [Course 3: Structuring Machine Learning Projects](#course-3-structuring-machine-learning-projects)
 - [Course 4: Convolutional Neural Networks](#course-4-convolutional-neural-networks)
-- [Course 5: Sequence Models](#course-5-sequence-models) [labs](course_5_sequence_models/README.md)
+- [Course 5: Sequence Models](#course-5-sequence-models) (click [here](course_5_sequence_models/README.md) to go to labs)
 
 ## Course 1: Neural Networks and Deep Learning
 
